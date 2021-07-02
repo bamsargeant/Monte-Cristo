@@ -1,0 +1,57 @@
+/*
+Free Html5 Responsive Templates
+Author: Kimmy Tran
+Author URI: http://www.zerotheme.com/
+*/
+html {
+   -webkit-text-size-adjust: none;
+   -ms-text-size-adjust:none;
+}
+.video embed,
+.video object,
+.video iframe {
+   width: 100%;
+   height: auto;
+}
+img{
+	max-width:100%;
+	height: auto;
+	width: auto; /* ie8 */
+}
+
+/*------------------------*/
+
+@media only screen and (max-width: 959px) {
+}
+
+@media only screen and (max-width: 767px){
+	
+}
+@media only screen and (max-width: 619px) {
+	h1 {float:none;}
+	h2 {font-size:25px;	line-height:1em;padding-left:10px;	background:none;}
+	.img-indent2{float: none;}
+}
+@media only screen and (max-width: 240px) {
+}
+/*
+     FILE ARCHIVED ON 18:22:42 Apr 30, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:21:58 Jul 02, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 61.004
+  exclusion.robots: 0.075
+  exclusion.robots.policy: 0.068
+  RedisCDXSource: 0.548
+  esindex: 0.008
+  LoadShardBlock: 38.304 (3)
+  PetaboxLoader3.datanode: 101.884 (5)
+  CDXLines.iter: 19.175 (3)
+  load_resource: 203.305 (2)
+  PetaboxLoader3.resolve: 87.371 (2)
+*/
